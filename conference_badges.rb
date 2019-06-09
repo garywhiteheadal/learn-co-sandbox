@@ -1,1 +1,1 @@
-badge_maker
+badge_maker("Arel")
