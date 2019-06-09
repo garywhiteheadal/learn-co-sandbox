@@ -1,0 +1,6 @@
+#lecture about methods
+full_name "Ann Duong"
+
+full_name
+
+def greet_instructor("Trevor")
